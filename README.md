@@ -135,7 +135,7 @@ The library is compatible with the latest versions of Chrome, Firefox, Safari, a
 If you want to contribute to this project or run it locally:
 
 ```bash
-git clone https://github.com/your-username/react-captchafy.git
+git clone https://github.com/dpgaire/react-captchafy.git
 cd react-captchafy
 npm install
 npm run build
